@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This web_web shows the content of news on a daily basis with restfulAPI and also user can download the newspaper layout structure in a pdf format
 ## Available Scripts
 
 In the project directory, you can run:
